@@ -251,11 +251,6 @@ async function main() {
         play.src = isPlaying ? "img/pause.svg" : "img/play.svg";
     }
 
-    // Remove the pause event listener that reverts the circle color
-    // currentSong.addEventListener("pause", () => {
-    //     document.querySelector(".circle").style.backgroundColor = "";
-    // });
-
     // Listen for timeupdate event
     currentSong.addEventListener("timeupdate", () => {
         let progressPercent = (currentSong.currentTime / currentSong.duration) * 100;

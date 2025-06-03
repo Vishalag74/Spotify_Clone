@@ -1,0 +1,236 @@
+{
+    "albums": [
+        {
+            "folder": "1viral",
+            "title": "Today's viral",
+            "description": "",
+            "cover": "songs/1viral/cover.jpg",
+            "songs": [
+                {
+                    "filename": "Jawaab.mp3",
+                    "title": "Jawaab"
+                },
+                {
+                    "filename": "Kalaastar.mp3",
+                    "title": "Kalaastar"
+                },
+                {
+                    "filename": "O Mahi O Mahi.mp3",
+                    "title": "O Mahi O Mahi"
+                },
+                {
+                    "filename": "Vigdiyan Heeran.mp3",
+                    "title": "Vigdiyan Heeran"
+                },
+                {
+                    "filename": "Wat Wat Wat.mp3",
+                    "title": "Wat Wat Wat"
+                }
+            ]
+        },
+        {
+            "folder": "Angry_(mood)",
+            "title": "Angry Mood",
+            "description": "",
+            "cover": "songs/Angry_(mood)/cover.jpg",
+            "songs": [
+                {
+                    "filename": "Ghost.mp3",
+                    "title": "Ghost"
+                },
+                {
+                    "filename": "Iraaday.mp3",
+                    "title": "Iraaday"
+                },
+                {
+                    "filename": "Malhari.mp3",
+                    "title": "Malhari"
+                }
+            ]
+        },
+        {
+            "folder": "Bright_(mood)",
+            "title": "Bright Mood",
+            "description": "",
+            "cover": "songs/Bright_(mood)/cover.jpg",
+            "songs": [
+                {
+                    "filename": "Insane.mp3",
+                    "title": "Insane"
+                },
+                {
+                    "filename": "Kabootar.mp3",
+                    "title": "Kabootar"
+                },
+                {
+                    "filename": "Le Le Mazaa Le Wanted.mp3",
+                    "title": "Le Le Mazaa Le Wanted"
+                }
+            ]
+        },
+        {
+            "folder": "Chill_(mood)",
+            "title": "Chill Mood",
+            "description": "",
+            "cover": "songs/Chill_(mood)/cover.jpg",
+            "songs": [
+                {
+                    "filename": "Chikni Chameli.mp3",
+                    "title": "Chikni Chameli"
+                },
+                {
+                    "filename": "Jalebi Bai.mp3",
+                    "title": "Jalebi Bai"
+                },
+                {
+                    "filename": "Jalebi-Baby.mp3",
+                    "title": "Jalebi-Baby"
+                }
+            ]
+        },
+        {
+            "folder": "Dark_(mood)",
+            "title": "Dark Mood",
+            "description": "",
+            "cover": "songs/Dark_(mood)/cover.jpg",
+            "songs": [
+                {
+                    "filename": "Black Life.mp3",
+                    "title": "Black Life"
+                },
+                {
+                    "filename": "King-Shit.mp3",
+                    "title": "King-Shit"
+                },
+                {
+                    "filename": "Patiala Flow.mp3",
+                    "title": "Patiala Flow"
+                }
+            ]
+        },
+        {
+            "folder": "Diljit",
+            "title": "Diljit's Music",
+            "description": "",
+            "cover": "songs/Diljit/cover.jpg",
+            "songs": [
+                {
+                    "filename": "Amiri.mp3",
+                    "title": "Amiri"
+                },
+                {
+                    "filename": "Born-To-Shine.mp3",
+                    "title": "Born-To-Shine"
+                },
+                {
+                    "filename": "Case.mp3",
+                    "title": "Case"
+                },
+                {
+                    "filename": "Drowning.mp3",
+                    "title": "Drowning"
+                },
+                {
+                    "filename": "Love-Ya.mp3",
+                    "title": "Love-Ya"
+                },
+                {
+                    "filename": "Magic.mp3",
+                    "title": "Magic"
+                },
+                {
+                    "filename": "Whatcha-Doin.mp3",
+                    "title": "Whatcha-Doin"
+                }
+            ]
+        },
+        {
+            "folder": "Funkey_(mood)",
+            "title": "Funkey Songs",
+            "description": "",
+            "cover": "songs/Funkey_(mood)/cover.jpg",
+            "songs": [
+                {
+                    "filename": "Funk.mp3",
+                    "title": "Funk"
+                },
+                {
+                    "filename": "Hass-Hass.mp3",
+                    "title": "Hass-Hass"
+                },
+                {
+                    "filename": "Jale.mp3",
+                    "title": "Jale"
+                },
+                {
+                    "filename": "Kabootar.mp3",
+                    "title": "Kabootar"
+                }
+            ]
+        },
+        {
+            "folder": "Love_(mood)",
+            "title": "Love Mood",
+            "description": "",
+            "cover": "songs/Love_(mood)/cover.jpg",
+            "songs": [
+                {
+                    "filename": "Heeriye.mp3",
+                    "title": "Heeriye"
+                },
+                {
+                    "filename": "Kesariya.mp3",
+                    "title": "Kesariya"
+                },
+                {
+                    "filename": "My-Queen.mp3",
+                    "title": "My-Queen"
+                },
+                {
+                    "filename": "Raanjhana-Ve.mp3",
+                    "title": "Raanjhana-Ve"
+                }
+            ]
+        },
+        {
+            "folder": "ncs",
+            "title": "GenZ Music",
+            "description": "",
+            "cover": "songs/ncs/cover.jpg",
+            "songs": [
+                {
+                    "filename": "Ektarfa.mp3",
+                    "title": "Ektarfa"
+                },
+                {
+                    "filename": "Faasle.mp3",
+                    "title": "Faasle"
+                },
+                {
+                    "filename": "Iraaday.mp3",
+                    "title": "Iraaday"
+                },
+                {
+                    "filename": "Long-Time-No-See.mp3",
+                    "title": "Long-Time-No-See"
+                },
+                {
+                    "filename": "Shikayat.mp3",
+                    "title": "Shikayat"
+                },
+                {
+                    "filename": "Teri Yaad.mp3",
+                    "title": "Teri Yaad"
+                },
+                {
+                    "filename": "Tu Hai Kahan.mp3",
+                    "title": "Tu Hai Kahan"
+                },
+                {
+                    "filename": "Zindagi-Tu-Aana.mp3",
+                    "title": "Zindagi-Tu-Aana"
+                }
+            ]
+        }
+    ]
+}
